@@ -1,0 +1,10 @@
+Training Completed 
+0:24:35.512377
+              precision    recall  f1-score   support
+
+           0       0.96      0.93      0.95    312508
+           1       0.32      0.47      0.38     21089
+
+    accuracy                           0.90    333597
+   macro avg       0.64      0.70      0.66    333597
+weighted avg       0.92      0.90      0.91    333597
