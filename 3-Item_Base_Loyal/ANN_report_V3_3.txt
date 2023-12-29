@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+           0       0.83      0.00      0.01     32083
+           1       0.24      1.00      0.39     10305
+
+    accuracy                           0.25     42388
+   macro avg       0.54      0.50      0.20     42388
+weighted avg       0.68      0.25      0.10     42388
+
+
+metric: ['PrecisionAtRecall(name=precision_at_recall_2,dtype=float32,class_id=None,num_thresholds=200,recall=0.7)']

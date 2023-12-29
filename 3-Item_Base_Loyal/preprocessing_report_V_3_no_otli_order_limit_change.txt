@@ -1,0 +1,177 @@
+Successfully Saved as train_validation_merge_v3_13
+
+    the parameters were 
+	ksigma:2
+	otli:45
+	least_order_count:4"
+
+    running time: 0:22:30.168407
+
+    train_validation_merge:694010
+
+    test_validation_merge:359066
+
+
+
+Successfully Saved as train_validation_merge_v3_14
+
+    the parameters were 
+	ksigma:2
+	otli:45
+	least_order_count:5"
+
+    running time: 0:21:37.053393
+
+    train_validation_merge:678823
+
+    test_validation_merge:345612
+
+
+
+Successfully Saved as train_validation_merge_v3_15
+
+    the parameters were 
+	ksigma:2
+	otli:60
+	least_order_count:4"
+
+    running time: 0:25:13.099905
+
+    train_validation_merge:801194
+
+    test_validation_merge:421590
+
+
+
+Successfully Saved as train_validation_merge_v3_16
+
+    the parameters were 
+	ksigma:2
+	otli:60
+	least_order_count:5"
+
+    running time: 0:24:16.110653
+
+    train_validation_merge:781944
+
+    test_validation_merge:404613
+
+
+
+Successfully Saved as train_validation_merge_v3_17
+
+    the parameters were 
+	ksigma:2
+	otli:75
+	least_order_count:4"
+
+    running time: 0:26:49.372169
+
+    train_validation_merge:866903
+
+    test_validation_merge:460027
+
+
+
+Successfully Saved as train_validation_merge_v3_18
+
+    the parameters were 
+	ksigma:2
+	otli:75
+	least_order_count:5"
+
+    running time: 0:25:40.882981
+
+    train_validation_merge:844283
+
+    test_validation_merge:440229
+
+
+
+Successfully Saved as train_validation_merge_v3_19
+
+    the parameters were 
+	ksigma:3
+	otli:45
+	least_order_count:4"
+
+    running time: 0:22:22.734968
+
+    train_validation_merge:694010
+
+    test_validation_merge:359066
+
+
+
+Successfully Saved as train_validation_merge_v3_20
+
+    the parameters were 
+	ksigma:3
+	otli:45
+	least_order_count:5"
+
+    running time: 0:21:35.440901
+
+    train_validation_merge:678823
+
+    test_validation_merge:345612
+
+
+
+Successfully Saved as train_validation_merge_v3_21
+
+    the parameters were 
+	ksigma:3
+	otli:60
+	least_order_count:4"
+
+    running time: 0:25:16.491777
+
+    train_validation_merge:801194
+
+    test_validation_merge:421590
+
+
+
+Successfully Saved as train_validation_merge_v3_22
+
+    the parameters were 
+	ksigma:3
+	otli:60
+	least_order_count:5"
+
+    running time: 0:24:14.405427
+
+    train_validation_merge:781944
+
+    test_validation_merge:404613
+
+
+
+Successfully Saved as train_validation_merge_v3_23
+
+    the parameters were 
+	ksigma:3
+	otli:75
+	least_order_count:4"
+
+    running time: 0:26:48.987988
+
+    train_validation_merge:866903
+
+    test_validation_merge:460027
+
+
+
+Successfully Saved as train_validation_merge_v3_24
+
+    the parameters were 
+	ksigma:3
+	otli:75
+	least_order_count:5"
+
+    running time: 0:25:42.741504
+
+    train_validation_merge:844283
+
+    test_validation_merge:440229

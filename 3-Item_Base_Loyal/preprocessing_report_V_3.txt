@@ -1,0 +1,59 @@
+Successfully Saved as train_validation_merge_v3_1
+
+    the parameters were ksigma:2	otli:45
+
+    running time: 0:34:55.145064
+
+    train_validation_merge:886077
+
+    test_validation_merge:501368
+
+Successfully Saved as train_validation_merge_v3_2
+
+    the parameters were ksigma:2	otli:60
+
+    running time: 0:35:21.394164
+
+    train_validation_merge:935939
+
+    test_validation_merge:539104
+
+Successfully Saved as train_validation_merge_v3_3
+
+    the parameters were ksigma:2	otli:75
+
+    running time: 0:35:01.076577
+
+    train_validation_merge:967439
+
+    test_validation_merge:561553
+
+Successfully Saved as train_validation_merge_v3_4
+
+    the parameters were ksigma:3	otli:45
+
+    running time: 0:35:49.402981
+
+    train_validation_merge:886077
+
+    test_validation_merge:501368
+
+Successfully Saved as train_validation_merge_v3_5
+
+    the parameters were ksigma:3	otli:60
+
+    running time: 0:35:03.538234
+
+    train_validation_merge:935939
+
+    test_validation_merge:539104
+
+Successfully Saved as train_validation_merge_v3_6
+
+    the parameters were ksigma:3	otli:75
+
+    running time: 0:36:53.261448
+
+    train_validation_merge:967439
+
+    test_validation_merge:561553
